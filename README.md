@@ -1,15 +1,15 @@
-# Basic Sample Hardhat Project
+# Bank DApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Web3 Decentralized Bank
 
-Try running some of the following tasks:
+\_\_
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Interact with it live: https://web3-bank-dapp.netlify.app/
+
+\_\_
+
+\_\_
+
+See the Smart Contract on Etherscan: https://rinkeby.etherscan.io/address/0x8496a9661e410d4538fcfef0716b576d53c0af8c
+
+\_\_
